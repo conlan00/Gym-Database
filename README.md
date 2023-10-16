@@ -10,4 +10,5 @@ System powinien dawać następujące możliwości:
 - możliwość sprawdzenia statystycznie jaka płeć wybiera jaką formę zajęć
 Ponadto jeden trener może przeprowadzać trening z wieloma klientami w jednym czasie, klient może korzystać z jednego typu zajęć jednego dnia ( z reguły tak to się odbywa) , jeden klient może uczestniczyć w różnych zajęciach jednego dnia na różnych salach, tzn. najpierw crossfit na jednej Sali potem bieżnia na innej Sali.
 2. Model Relacyjny
-  ![image](https://github.com/conlan00/Gym-Database/assets/104897926/127b6d9b-0291-4b56-a586-63575a07de2b)
+
+![Zrzut ekranu 2023-10-16 215003](https://github.com/conlan00/Gym-Database/assets/104897926/eadb047a-7159-4d0d-ade5-7ac38acf1985)
